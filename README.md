@@ -1,1 +1,1 @@
-# repo
+# repo tutorial for beginner
