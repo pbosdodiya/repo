@@ -2,3 +2,4 @@ this my git test document.
 this is my second update.
 not login changes test 
 test2new branch 
+test2new delete and mone new added branch.
